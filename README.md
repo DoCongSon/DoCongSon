@@ -2,4 +2,7 @@
   - ✔*Facebook :* [Đỗ Công Sơn](https://www.facebook.com/docongson2001)
   - ✔*Github :* [DoCongSon](https://github.com/DoCongSon)
 
-<img src=hello.gif>
+<img
+  src="hello.gif"
+  style="width: 500px; display: block; margin-left: auto; margin-right: auto"
+/>
