@@ -5,5 +5,5 @@
   - ✔*Github :* [DoCongSon](https://github.com/DoCongSon)
   - ✔*Email :* sonanhson99@gmail.com
 
-<img align="center" src="hello.gif"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DoCongSon"/>
+<img width="100%" align="center" src="hello.gif"/>
+<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=DoCongSon"/>
