@@ -9,6 +9,6 @@
 
 
 <div width="100%" align="center" style="display: flex">
-  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=DoCongSon&count_private=true&theme=radical&show_icons=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoCongSon&layout=compact&title_color=fe428e&text_color=A9FEF7&icon_color=007bff&bg_color=141321">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=DoCongSon&count_private=true&theme=radical&show_icons=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoCongSon&layout=compact&title_color=fe428e&text_color=A9FEF7&icon_color=007bff&bg_color=141321">
 </div>
