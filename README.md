@@ -5,10 +5,8 @@
   - ✔*Github :* [DoCongSon](https://github.com/DoCongSon)
   - ✔*Email :* sonanhson99@gmail.com
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<div width="100%" align="center" style="display: flex">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=DoCongSon&count_private=true&theme=radical&show_icons=true"/>
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoCongSon&layout=compact&title_color=fe428e&text_color=A9FEF7&icon_color=007bff&bg_color=141321">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div width="100%">
+  <img width="55.3%" src="https://github-readme-stats.vercel.app/api?username=DoCongSon&count_private=true&theme=radical&show_icons=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoCongSon&layout=compact&title_color=fe428e&text_color=A9FEF7&icon_color=007bff&bg_color=141321">
 </div>
